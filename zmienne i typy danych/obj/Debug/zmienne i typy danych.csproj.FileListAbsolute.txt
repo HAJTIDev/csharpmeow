@@ -1,0 +1,7 @@
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\bin\Debug\zmienne i typy danych.exe.config
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\bin\Debug\zmienne i typy danych.exe
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\bin\Debug\zmienne i typy danych.pdb
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\obj\Debug\zmienne i typy danych.csproj.AssemblyReference.cache
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\obj\Debug\zmienne i typy danych.csproj.CoreCompileInputs.cache
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\obj\Debug\zmienne i typy danych.exe
+C:\Users\youst\Puplit\c# korki\zmienne i typy danych\obj\Debug\zmienne i typy danych.pdb
