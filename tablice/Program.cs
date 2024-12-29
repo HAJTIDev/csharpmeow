@@ -10,7 +10,7 @@ namespace tablice
     {
         static void Main(string[] args)
         {
-            int[] liczby = { 1, 2, 3, 4, 5 };
+            int[] liczby = { 1, 2, 3, 4, 5 };//cos
             foreach (int liczba in liczby)
             {
                 Console.WriteLine(liczba);
