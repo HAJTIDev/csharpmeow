@@ -1,0 +1,7 @@
+C:\Users\youst\Puplit\c# korki\zagdnij\bin\Debug\zagdnij.exe.config
+C:\Users\youst\Puplit\c# korki\zagdnij\bin\Debug\zagdnij.exe
+C:\Users\youst\Puplit\c# korki\zagdnij\bin\Debug\zagdnij.pdb
+C:\Users\youst\Puplit\c# korki\zagdnij\obj\Debug\zagdnij.csproj.AssemblyReference.cache
+C:\Users\youst\Puplit\c# korki\zagdnij\obj\Debug\zagdnij.csproj.CoreCompileInputs.cache
+C:\Users\youst\Puplit\c# korki\zagdnij\obj\Debug\zagdnij.exe
+C:\Users\youst\Puplit\c# korki\zagdnij\obj\Debug\zagdnij.pdb
