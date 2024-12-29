@@ -18,7 +18,7 @@ namespace zagdnij
                 Console.WriteLine("Podaj swoją liczbę: ");
                 string input = Console.ReadLine();
 
-                if (!int.TryParse(input, out liczbauzytkownika))
+                if (!int.(input, out liczbauzytkownika))
                 {
                     Console.WriteLine("TO NIE JEST POPRAWNE");
                     continue;

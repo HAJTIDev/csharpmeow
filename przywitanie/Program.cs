@@ -4,18 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tablice
+namespace przywitanie
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] liczby = { 1, 2, 3, 4, 5 };
-            foreach (int liczba in liczby)
-            {
-                Console.WriteLine(liczba);
-            }
-
+            Console.WriteLine("jak masz na imie");
+            string tekst = Console.ReadLine();
+            Console.WriteLine($"czesc {tekst}");
         }
     }
 }

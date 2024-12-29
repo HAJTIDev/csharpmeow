@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\bin\Debug\objekty i klasy.exe.config
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\bin\Debug\objekty i klasy.exe
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\bin\Debug\objekty i klasy.pdb
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\obj\Debug\objekty i klasy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\obj\Debug\objekty i klasy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\obj\Debug\objekty i klasy.exe
+C:\Users\User\Desktop\csharpmeow\objekty i klasy\obj\Debug\objekty i klasy.pdb

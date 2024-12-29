@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\csharpmeow\przywitanie\bin\Debug\przywitanie.exe.config
+C:\Users\User\Desktop\csharpmeow\przywitanie\bin\Debug\przywitanie.exe
+C:\Users\User\Desktop\csharpmeow\przywitanie\bin\Debug\przywitanie.pdb
+C:\Users\User\Desktop\csharpmeow\przywitanie\obj\Debug\przywitanie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharpmeow\przywitanie\obj\Debug\przywitanie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharpmeow\przywitanie\obj\Debug\przywitanie.exe
+C:\Users\User\Desktop\csharpmeow\przywitanie\obj\Debug\przywitanie.pdb
